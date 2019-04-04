@@ -1,1 +1,2 @@
 hello Mars!
+This is a new line
